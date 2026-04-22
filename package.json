@@ -4,6 +4,14 @@
   "description": "Official TypeScript SDK for the Maildesk API",
   "author": "Reginald Nriagu",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KadenLLC/typescript-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KadenLLC/typescript-sdk/issues"
+  },
+  "homepage": "https://github.com/KadenLLC/typescript-sdk#readme",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
